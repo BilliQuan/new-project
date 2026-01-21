@@ -1,7 +1,6 @@
-import React from "react";
-import "./App.css";
 
-function nav() {
+
+function Nav() {
   return (
     <div className="bg-[#dc3491] w-full sticky z-20 top-0 shadow-lg">
       <div className="max-w-7xl  mx-auto">
@@ -23,4 +22,4 @@ function nav() {
   );
 }
 
-export default nav;
+export default Nav;
